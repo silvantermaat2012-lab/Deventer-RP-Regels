@@ -1,4 +1,4 @@
-# Deventer-RP-Regels
+# Enschede-RP-Regels
 Algemene Plaatselijke Verordening (APV)
 Hieronder vindt je de APV regels die van toepassing zijn in onze stad.
 
@@ -26,7 +26,7 @@ Alle staffzaken worden behandeld op feiten, logs en/of eigen perspectief. Het is
 Cheaten op andere FiveM servers – (Categorie 8 t/m 9)
 Hij / zij die actief cheat op FiveM, dus ook op andere servers, loopt het risico om ook bij ons verbannen te worden.
 
-Deventer keurt het cheaten op FiveM in het algemeen af. Enkel Sander/Silvan/Spas heeft toestemming om hierop te bannen.
+Enschede keurt het cheaten op FiveM in het algemeen af. Enkel Hogerop (junior manegment of hoger) heeft toestemming om hierop te bannen.
 
 Deze regel wordt meestal toegepast op actieve spelers. Nieuwe spelers worden zelden geband.
 
